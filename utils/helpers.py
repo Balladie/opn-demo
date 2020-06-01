@@ -7,7 +7,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.nn.init as init
 import torch.utils.model_zoo as model_zoo
-from torchvision import models
+#from torchvision import models
 
 # general libs
 import matplotlib.pyplot as plt
